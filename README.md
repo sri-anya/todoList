@@ -12,7 +12,7 @@ GoalGrid is a web application built using Vite, React, React Router DOM v6, Tail
 
 ## Demo
 ![GoalGrid Preview](./public/app-screenshot.png)
-Check out the [Demo](#) to experience GoalGrid in action.
+Check out the [Demo](https://goalgrid-todolist.netlify.app/) to experience GoalGrid in action.
 
 ## Installation
 
